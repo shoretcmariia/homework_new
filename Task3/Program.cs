@@ -13,14 +13,11 @@ class Program
 {
     static void Main()
     {
-        
         int M = 4;
         int N = 8; 
-
         
         PrintNumbers(M, N);
     }
-
   
     static void PrintNumbers(int M, int N)
     {
